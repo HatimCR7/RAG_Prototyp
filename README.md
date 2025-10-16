@@ -13,8 +13,8 @@ Dieses System kann Fragen zu Maschinenfehlern beantworten, indem es:
 
 ### 1. Repository klonen
 ```bash
-git clone <your-repo-url>
-cd hmi-rag-proto/backend
+git clone https://github.com/HatimCR7/RAG_Prototyp.git
+cd RAG_Prototyp
 ```
 
 ### 2. Virtual Environment erstellen
