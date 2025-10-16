@@ -1,0 +1,3 @@
+Fehler E01: Druckluft zu niedrig.
+Ursache: Leckage oder verstopfter Regler.
+Abhilfe: Leitungen prüfen, Druckregler reinigen, Versorgung auf >= 6 bar sicherstellen.
